@@ -21,7 +21,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Its-me-ravi/my-backend.git
 cd your-repo-name/backend
 Install Dependencies Ensure you have Node.js installed. Then, run:
 
